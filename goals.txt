@@ -1,0 +1,4 @@
+hanifan goals
+-belajar html dasar
+-belajar css dasar
+-belajar javascript dasar
