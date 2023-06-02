@@ -1,4 +1,8 @@
 hanifan goals
--belajar html dasar
--belajar css dasar
--belajar javascript dasar
+- html dasar
+- css dasar
+- javascript dasar
+- html 5
+- javascript DOM
+- javascript lanjutan
+- git & github
